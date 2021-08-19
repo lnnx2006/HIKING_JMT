@@ -39,7 +39,7 @@
 #### Day4 : Woods Creeks Camping(3300) -- Woods Creek Footbridge(2600) -- Dollar Lake(3150) -- Rae Lakes Camping(3400) 
 	- U/D : 800+/700+
 	- Camping : Rae Lakes
-  ![day4](https://github.com/lnnx2006/HIKING_JMT/blob/main/images_routes/day3.png?raw=true)
+  ![day4](https://github.com/lnnx2006/HIKING_JMT/blob/main/images_routes/day4.png?raw=true)
 - MAIN LAKES : dollar lake, arrowhead lake, rae lakes, sixty lake basin
 - PEAKS : todo 
 
@@ -50,7 +50,7 @@
 #### Day5 : Rae Lakes Camping(3400) -- Glen Pass(3635) -- Bullfrog Lake Trail(3200) -- Bullfrog Lake -- Kearsarge Pass(3569) -- Onion Valley Campground(2850)
 	- U/D : 600+/1151+
 	- Camping : Onion Valley
-  ![day5](https://github.com/lnnx2006/HIKING_JMT/blob/main/images_routes/day3.png?raw=true)
+  ![day5](https://github.com/lnnx2006/HIKING_JMT/blob/main/images_routes/day5.png?raw=true)
 - MAIN LAKES : charlotte lake, bullfrog lake, kearsarge lake, big pothole lake, heart lake, flower laker, gibert lake, matlock lake
 - PEAKS : todo 
 
