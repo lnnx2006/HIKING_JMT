@@ -17,6 +17,7 @@
   ![day2](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_routes/day2.png)
 - MAIN LAKES :Palisade Lakes, unamed lake at upper basin
 - PEAKS : todo
+
 ![day2_ref1](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day2_1.jpg)
 ![day2_ref2](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day2_2.jpg)
 ![day2_ref3](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day2_3.jpg)
@@ -28,6 +29,7 @@
   ![day3](https://github.com/lnnx2006/HIKING_JMT/blob/main/images_routes/day3.png?raw=true)
 - MAIN LAKES : Lake Marjorie, twin lakes 
 - PEAKS : todo 
+
 ![day3_ref1](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day3_1.jpg)
 ![day3_ref2](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day3_2.jpg)
 ![day3_ref3](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day3_3.jpg)
@@ -40,6 +42,7 @@
   ![day4](https://github.com/lnnx2006/HIKING_JMT/blob/main/images_routes/day3.png?raw=true)
 - MAIN LAKES : dollar lake, arrowhead lake, rae lakes, sixty lake basin
 - PEAKS : todo 
+
 ![day4_ref1](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day4_1.jpg)
 ![day4_ref2](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day4_2.jpg)
 ![day4_ref3](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day4_3.jpg)
@@ -50,6 +53,7 @@
   ![day5](https://github.com/lnnx2006/HIKING_JMT/blob/main/images_routes/day3.png?raw=true)
 - MAIN LAKES : charlotte lake, bullfrog lake, kearsarge lake, big pothole lake, heart lake, flower laker, gibert lake, matlock lake
 - PEAKS : todo 
+
 ![day5_ref1](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day5_1.jpg)
 ![day5_ref2](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day5_2.jpg)
 ![day5_ref3](https://raw.githubusercontent.com/lnnx2006/HIKING_JMT/main/images_ref/day5_3.jpg)
